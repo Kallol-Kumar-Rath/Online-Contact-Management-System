@@ -33,7 +33,7 @@ The API runs on `localhost` at port `8080`.
     ```json
     {
         "userName": "Kallol Kumar Rath",
-        "email": "kallol.kumar.rath@signify.com",
+        "email": "kallolrath20@gmail.com",
         "phoneNumber": "8249588122"
     }
     ```
